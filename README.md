@@ -1,4 +1,4 @@
-$$\L_{cross}(R)=-\sum_{c} \hat{p}_{c} \log _{2} \hat{p}_{c}$$
+$$\ L_{cross}(R)=-\sum_{c} \hat{p}_{c} \log _{2} \hat{p}_{c}$$
 
 **The Cauchy-Schwarz Inequality**
 
